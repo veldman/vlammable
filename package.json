@@ -1,0 +1,33 @@
+{
+  "name": "vlammable",
+  "version": "0.1.0",
+  "description": "React Tables optimized to use data as is.",
+  "main": "dist/bundle.js",
+  "dependencies": {
+    "react-dom": "^16.5.2",
+    "react": "^16.5.2",
+    "typescript": "^3.1.3",
+    "ts-loader": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.18",
+    "@types/react-dom": "^16.0.9"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veldman/vlammable.git"
+  },
+  "keywords": [
+    "react",
+    "table"
+  ],
+  "author": "Kenneth Veldman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veldman/vlammable/issues"
+  },
+  "homepage": "https://github.com/veldman/vlammable#readme"
+}
